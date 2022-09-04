@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hdytarsn" height="30" width="40" /></a>
 <body><a href="https://discord.com/users/790027142124929024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hdytarsn" height="30" width="40"></a></body>
 <body><a href="[[https://discord.com/users/790027142124929024](https://www.twitch.tv/phoenixfuntv)](https://www.twitch.tv/phoenixfuntv)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="hdytarsn" height="30" width="40"></a></body>
-<body><a href="https://discord.com/users/790027142124929024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="hdytarsn" height="30" width="40"></a></body>
+<body><a href="https://open.spotify.com/user/21ns4jmw7whptzuvsf7kbq5hq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="21ns4jmw7whptzuvsf7kbq5hq" height="30" width="40"></a></body>
 <body><a href="https://www.twitch.tv/phoenixfuntv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="phoenixfuntv" height="30" width="40"></a></body>
 <a href="https://fb.com/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hdytarsn" height="30" width="40" /></a>
 <a href="https://instagram.com/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hdytarsn" height="30" width="40" /></a>
