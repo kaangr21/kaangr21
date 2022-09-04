@@ -4,7 +4,7 @@
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)
 
 
-- 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
+<h3 align="center">- 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
