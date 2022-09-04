@@ -22,4 +22,4 @@
 
 <h3 align="left">My Projects</h3>
 
-📄 <a href="https://www.mehmetkaangur.com" target="blank">Phoenix Communıty</a>.
+📄 <a href="https://www.mehmetkaangur.com" target="blank">Phoenix Communıty</a>
