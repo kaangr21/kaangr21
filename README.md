@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Mehmet Kaan Gür
-Junior developer, senior traveller
+Graphic Designer, Community Owner, Streamer
 
 
 <!--
