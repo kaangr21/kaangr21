@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kaan Gür</h1>
 <h3 align="center">Graphic Designer, Community Owner, Streamer</h3>
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)
 
-
-<h3 align="center">- 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
+<h3 align="center"> 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
