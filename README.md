@@ -1,4 +1,7 @@
-### Hi 👋, I'm Mehmet Kaan Gür
+              ### Hi 👋, I'm Mehmet Kaan Gür
+------------------------------------------------------------
+            Junior developer, senior traveller
+
 
 <!--
 **kaangr21/kaangr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
