@@ -1,7 +1,7 @@
 # Hi there, Mehmet Kaan Gür - ALGOS 👋 
 Graphic Designer, Community Owner, Streamer
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fwww.mehmetkaangur.com)](https://www.mehmetkaangur.com)
+[![Website](style=for-the-badge&url=https%3A%2F%2Fwww.mehmetkaangur.com)](https://www.mehmetkaangur.com)
 
 
 
