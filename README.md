@@ -1,6 +1,5 @@
-              ### Hi 👋, I'm Mehmet Kaan Gür
-------------------------------------------------------------
-            Junior developer, senior traveller
+### Hi 👋, I'm Mehmet Kaan Gür
+Junior developer, senior traveller
 
 
 <!--
