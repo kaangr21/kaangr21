@@ -45,6 +45,3 @@ Graphic Designer, Community Owner, Streamer
 
 <br />
 <br />
-
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
