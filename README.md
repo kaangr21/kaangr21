@@ -17,6 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+</a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_Illustrator_CC_icon.svg"><img width="40" alt="Adobe Illustrator CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"></a>
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg"><img width="40" alt="Adobe Photoshop CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"></a>
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.svg"><img width="40" alt="Adobe After Effects CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png"></a>
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe-premiere-pro-cc-1430-vector-svg-.svg"><img width="40" alt="Adobe-premiere-pro-cc-1430-vector-svg-" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Adobe-premiere-pro-cc-1430-vector-svg-.svg/512px-Adobe-premiere-pro-cc-1430-vector-svg-.svg.png"></a>
