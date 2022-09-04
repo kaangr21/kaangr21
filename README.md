@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hdytarsn" height="30" width="40" /></a>
-<body><a href="https://discord.com/users/790027142124929024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="hdytarsn" height="30" width="40"></a></body>
+<body><a href="https://discord.com/users/790027142124929024" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="ALGOS" height="30" width="40"></a></body>
 <body><a href="https://steamcommunity.com/id/algosss" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/steam.svg" alt="algosss" height="30" width="40"></a></body>
 <body><a href="https://open.spotify.com/user/21ns4jmw7whptzuvsf7kbq5hq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="21ns4jmw7whptzuvsf7kbq5hq" height="30" width="40"></a></body>
 <body><a href="https://www.twitch.tv/phoenixfuntv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="phoenixfuntv" height="30" width="40"></a></body>
