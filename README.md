@@ -5,7 +5,7 @@ Graphic Designer, Community Owner, Streamer
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Founder Of Phoenix Communıty
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
