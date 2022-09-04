@@ -4,7 +4,7 @@ Graphic Designer, Community Owner, Streamer
 [![Website](https://img.shields.io/website?label=mehmetkaangur.com&style=for-the-badge&url=https%3A%2F%2Fwww.mehmetkaangur.com)](https://www.mehmetkaangur.com)
 
 
-📄 Know about my experiences on my personel [![Website](https://img.shields.io/website?label=mehmetkaangur.com&style=for-the-badge&url=https%3A%2F%2Fwww.mehmetkaangur.com)](https://www.mehmetkaangur.com)
+📄 Know about my experiences on [my personel website.](https://youtube.com/codestackr)
 
 - 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
