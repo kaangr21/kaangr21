@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kaan Gür</h1>
 <h3 align="center">Graphic Designer, Community Owner, Streamer</h3>
 
-<p align="left"> <a href="https://twitter.com/hdytarsn" target="blank"><img src="https://img.shields.io/twitter/follow/hdytarsn?logo=twitter&style=for-the-badge" alt="hdytarsn" /></a> </p>
+<p align="left"> <a href="https://instagram.com/kaangr21" target="blank"><img src="https://img.shields.io/twitter/follow/kaangr21?logo=twitter&style=for-the-badge" alt="kaangr21" /></a> </p>
 
 - 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
 
