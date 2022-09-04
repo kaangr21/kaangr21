@@ -17,8 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-</a> <a href="https://commons.wikimedia.org/wiki/File:Wordpress_Shiny_Icon.svg"><img width="40" alt="Wordpress Shiny Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wordpress_Shiny_Icon.svg/256px-Wordpress_Shiny_Icon.svg.png"></a>
-</a> <a href="https://webpack.js.org" target="_blank"> <img height="40"/> </a> </p> <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg"><img width="40" alt="Lua-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/512px-Lua-Logo.svg.png">
+</a> <a href="https://commons.wikimedia.org/wiki/File:Wordpress_Shiny_Icon.svg"><img width="40" alt="Wordpress Shiny Icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Wordpress_Shiny_Icon.svg/256px-Wordpress_Shiny_Icon.svg.png"></a> </a> <a href="https://webpack.js.org" target="_blank"> <img height="40"/> </a> </p> <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg"><img width="40" alt="Lua-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/512px-Lua-Logo.svg.png">
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_Illustrator_CC_icon.svg"><img width="40" alt="Adobe Illustrator CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"></a>
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_Photoshop_CC_icon.svg"><img width="40" alt="Adobe Photoshop CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png"></a>
 </a> <a href="https://commons.wikimedia.org/wiki/File:Adobe_After_Effects_CC_icon.svg"><img width="40" alt="Adobe After Effects CC icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png"></a>
