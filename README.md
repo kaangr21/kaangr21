@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kaan Gür</h1>
 <h3 align="center">Graphic Designer, Community Owner, Streamer</h3>
 
+[![İnstagram Channel Subscribers](https://img.shields.io/instagram/channel/subscribers/kaangr21-jVSd6VJkbCw?logo=instagram&logoColor=red&style=for-the-badge)][instagram]
 
 - 📄 Know about my experiences on <a href="https://www.mehmetkaangur.com" target="blank">my personel website</a>.
 
