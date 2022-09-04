@@ -6,13 +6,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hdytarsn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hdytarsn" height="30" width="40" /></a>
-<a href="https://fb.com/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hdytarsn" height="30" width="40" /></a>
-<a href="https://instagram.com/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hdytarsn" height="30" width="40" /></a>
-<a href="https://www.behance.net/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hdytarsn" height="30" width="40" /></a>
-<a href="https://medium.com/@hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@hdytarsn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hdytarsn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="hdytarsn" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hdytarsn" height="30" width="40" /></a>
+<a href="https://fb.com/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="hdytarsn" height="30" width="40" /></a>
+<a href="https://instagram.com/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hdytarsn" height="30" width="40" /></a>
+<a href="https://www.behance.net/kaangr21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="hdytarsn" height="30" width="40" /></a>
 </p>
 
 
