@@ -21,6 +21,7 @@
 </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a 
 href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 <a href="https://commons.wikimedia.org/wiki/File:Lua-Logo.svg"><img width="40" alt="Lua-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/512px-Lua-Logo.svg.png"></a>
+<ahref="https://commons.wikimedia.org/wiki/File:Wordpress.svg"><img width="40" alt="Wordpress" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Wordpress.svg/32px-Wordpress.svg.png"></a>
 
 <h3 align="left">My Projects</h3>
 
